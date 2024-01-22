@@ -1,3 +1,3 @@
-# ManyType
+# ManyType github profile
 
-Like [AnyType](https://github.com/anyproto/), but in Dart for use with Flutter.  Multiple accounts and granular sharing of spaces.
+See [profile/README.md](https://github.com/manytype/.github/blob/main/profile/README.md).
